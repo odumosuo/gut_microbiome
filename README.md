@@ -15,7 +15,7 @@ file provided contains the V4 16S ribosomal subunit sequences of various bacteri
 ## Features
 BLAST  
 Alignment  
-16S ribosomal subunit
+16S ribosomal subunit  
 NCBI    
 Fatsa 
 
