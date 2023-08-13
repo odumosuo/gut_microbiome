@@ -11,6 +11,8 @@ diversity to distinguish different genera. The files DL_1.txt and PM_1.txt conta
 sourced from healthy individuals’ distal lumen and proximal mucosa respectively. The reference.fasta
 file provided contains the V4 16S ribosomal subunit sequences of various bacterial genera.
 
+## How to run
+Foolow instructions and script in gut_microbiome.sh
 
 ## Features
 BLAST  
